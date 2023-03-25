@@ -1,0 +1,149 @@
+body{
+  
+}
+
+/* Global */
+.container{
+  
+}
+
+ul{
+ 
+}
+
+.button_1{
+  
+}
+
+.dark{
+  
+}
+
+/* Header **/
+header{
+  
+}
+
+header a{
+ 
+}
+
+header li{
+  
+}
+
+header #branding{
+  
+}
+
+header #branding h1{
+  
+}
+
+header nav{
+  
+}
+
+header .highlight, header .current a{
+ 
+}
+
+header a:hover{
+ 
+}
+
+/* Showcase */
+#showcase{
+  
+}
+
+#showcase h1{
+  
+}
+
+#showcase p{
+  
+}
+
+/* Newsletter */
+#newsletter{
+  
+}
+
+#newsletter h1{
+  
+}
+
+#newsletter form {
+ 
+}
+
+#newsletter input[type="email"]{
+  
+}
+
+/* Boxes */
+#boxes{
+  
+}
+
+#boxes .box{
+  
+}
+
+#boxes .box img{
+ 
+}
+
+/* Sidebar */
+aside#sidebar{
+  
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+ 
+}
+
+/* Main-col */
+article#main-col{
+  
+}
+
+/* Services */
+ul#services li{
+  
+}
+
+footer{
+  
+}
+
+/* Media Queries */
+@media(max-width: 768px){
+  header #branding,
+  header nav,
+  header nav li,
+  #newsletter h1,
+  #newsletter form,
+  #boxes .box,
+  article#main-col,
+  aside#sidebar{
+    
+  }
+
+  header{
+    
+  }
+
+  #showcase h1{
+   
+  }
+
+  #newsletter button, .quote button{
+    
+  }
+
+  #newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+}
